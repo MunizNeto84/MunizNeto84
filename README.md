@@ -31,9 +31,9 @@ I am a front-end developer, I am passionate about technology and design, I am in
 
 
 [
-![Linkedin Badge](https://img.shields.io/badge/Linkedin-0b1425?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.behance.net/muniznetto/)](https://www.instagram.com/muniznetto/)[
+![Linkedin Badge](https://img.shields.io/badge/Linkedin-0b1425?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/munizneto/)](https://www.linkedin.com/in/munizneto/)[
 ![Behance Badge](https://img.shields.io/badge/Behance-0b1425?style=for-the-badge&logo=Behance&logoColor=white&link=https://www.behance.net/muniznetto/)](https://www.behance.net/muniznetto)[
-![Instagram Badge](https://img.shields.io/badge/Instagram-0b1425?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.behance.net/muniznetto/)](https://www.instagram.com/muniznetto/)
+![Instagram Badge](https://img.shields.io/badge/Instagram-0b1425?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/muniznetto/)](https://www.instagram.com/muniznetto/)
 
 or 📫 **[email](mailto:tsmneto84@gmail.com)**: **[tsmneto84@gmail.com](mailto:rtsmneto84@gmail.com).** 
 
