@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi, Muniz Neto here! 👋
 
-I am a front-end developer, I am passionate about technology and design, I am interested in becoming a fullstack developer and I also have 6 years of experience with Graphic Design.
+I'm studying to become a genuinely capable developer, with a focus on improving my knowledge of JavaScript in conjunction with React. My enthusiasm for technology and design is quite evident, and my objective to evolve into a full-stack professional.
 
 
  ⚡ **"Life is Locomotion if you're not moving, you're not living."** ⚡
