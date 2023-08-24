@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi, Muniz Neto here! 👋
 
-I'm studying to become a genuinely capable developer, with a focus on improving my knowledge of JavaScript in conjunction with React. My enthusiasm for technology and design is quite evident, and my objective to evolve into a full-stack professional.
+I'm studying to become a genuinely capable developer, with a focus on improving my knowledge of JavaScript in conjunction with React. My enthusiasm for technology and design is quite evident, and my objective to evolve to be a full-stack professional.
 
 
  ⚡ **"Life is Locomotion if you're not moving, you're not living."** ⚡
