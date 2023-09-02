@@ -1,21 +1,3 @@
-<!--
-## Hi, Muniz Neto here 👋 🚀
-
-
-**MunizNeto84/MunizNeto84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, Muniz Neto here! 👋
 
 I'm studying to become a genuinely capable developer, with a focus on improving my knowledge of JavaScript in conjunction with React. My enthusiasm for technology and design is quite evident, and my objective to evolve to be a full-stack professional.
@@ -47,11 +29,8 @@ or 📫 **[email](mailto:tsmneto84@gmail.com)**: **[tsmneto84@gmail.com](mailto:
 
 
 <br>
+<img align="left" padding="10px" src="https://github-readme-stats.vercel.app/api?username=munizneto84&show_icons=tru&theme=gotham" alt="git stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=munizneto84&show_icons=tru&theme=gotham" alt="git stats" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munizneto84&layout=compact&show_icons=true&theme=gotham" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munizneto84&layout=compact&show_icons=true&theme=gotham" alt="most used languages" />
 
 
