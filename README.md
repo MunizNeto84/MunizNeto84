@@ -23,7 +23,7 @@ or 📫 **[email](mailto:tsmneto84@gmail.com)**: **[tsmneto84@gmail.com](mailto:
 
 🔥 **Skills:**
 
-![Python Badge](https://img.shields.io/badge/Python-0077B6?style=for-the-badge&logo=python&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React Badge](https://img.shields.io/badge/React-0FAFFF?style=for-the-badge&logo=react&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Python Badge](https://img.shields.io/badge/Python-0077B6?style=for-the-badge&logo=python&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ffd166?style=for-the-badge&logo=javascript&logoColor=black) ![React Badge](https://img.shields.io/badge/React-4361ee?style=for-the-badge&logo=react&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-FD8B4D?style=for-the-badge&logo=git&logoColor=white) 
 
 
 <div><br>
