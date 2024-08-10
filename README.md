@@ -1,29 +1,41 @@
-# Hi, Muniz Neto here! 👋
+# Olá, Muniz Neto aqui! 👋
 
-I'm studying to become a genuinely capable developer, with a focus on improving my knowledge of JavaScript in conjunction with React. My enthusiasm for technology and design is quite evident, and my objective to evolve to be a full-stack professional.
+Sou apaixonado por tecnologia e design, com habilidades em Python e JavaScript para desenvolver soluções tanto no front-end quanto no back-end. Confira meus repositórios para ver exemplos dos projetos que estou criando.
 
 
  ⚡ **"Life is Locomotion if you're not moving, you're not living."** ⚡
  
 
 
-🚀 **Reach me out:**  
+🚀 **Entre em contato:**  
 
 
 [
-![Linkedin Badge](https://img.shields.io/badge/Linkedin-0b1425?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/munizneto/)](https://www.linkedin.com/in/munizneto/)[
-![Behance Badge](https://img.shields.io/badge/Behance-0b1425?style=for-the-badge&logo=Behance&logoColor=white&link=https://www.behance.net/muniznetto/)](https://www.behance.net/muniznetto)[
-![Instagram Badge](https://img.shields.io/badge/Instagram-0b1425?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/muniznetto/)](https://www.instagram.com/muniznetto/)
+![Linkedin Badge](https://img.shields.io/badge/Linkedin-0b1425?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/munizneto/)](https://www.linkedin.com/in/munizneto/)
 
-or 📫 **[email](mailto:tsmneto84@gmail.com)**: **[tsmneto84@gmail.com](mailto:rtsmneto84@gmail.com).** 
+ou 📫 **[email](mailto:tsmneto84@gmail.com)**: **[tsmneto84@gmail.com](mailto:rtsmneto84@gmail.com).** 
 
 
 
 
 
-🔥 **Skills:**
+🔥 **Habilidades:**
 
-![Python Badge](https://img.shields.io/badge/Python-0077B6?style=for-the-badge&logo=python&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ffd166?style=for-the-badge&logo=javascript&logoColor=black) ![React Badge](https://img.shields.io/badge/React-4361ee?style=for-the-badge&logo=react&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-FD8B4D?style=for-the-badge&logo=git&logoColor=white) 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+</div>
 
 
 <div><br>
