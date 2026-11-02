@@ -1,42 +1,33 @@
-# Olá, Muniz Neto aqui! 👋
+# Olá, sou Muniz Neto! 👋
 
-Sou apaixonado por tecnologia e design, com habilidades em JavaScript para desenvolver soluções tanto no front-end quanto no back-end. Confira meus repositórios para ver exemplos dos projetos que estou criando.
+⚡ **"Life is Locomotion if you're not moving, you're not living."**
 
-
- ⚡ **"Life is Locomotion if you're not moving, you're not living."** ⚡
- 
+Sou apaixonado por tecnologia com foco no ecossistema .NET e C#. Unindo a forte capacidade de resolução de problemas da minha atuação como Analista de Suporte à dedicação em arquitetar APIs e sistemas back-end robustos, busco criar soluções eficientes. Fique à vontade para explorar meus repositórios e conferir meu trabalho na prátic
 
 
-🚀 **Entre em contato:**  
+### 💻 Tecnologias e Ferramentas:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" title="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET logo" title=".NET Core/10" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="SQL logo" title="SQL" />
+</div>
 
+<br>
+
+### 🚀 Vamos nos conectar!
 
 [
-![Linkedin Badge](https://img.shields.io/badge/Linkedin-0b1425?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/munizneto/)](https://www.linkedin.com/in/munizneto/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munizneto/)
 
 ou 📫 **[email](mailto:tsmneto84@gmail.com)**: **[tsmneto84@gmail.com](mailto:rtsmneto84@gmail.com).** 
 
+<br>
 
-
-
-
-🔥 **Habilidades:**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="27" alt="jest logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo"  />
-  <img width="10" />
+<div>
+  <img height="140em" src="https://github-stats-extended.vercel.app/api?username=munizneto84&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img height="140em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=munizneto84&layout=compact&theme=gotham" alt="Top Languages" />
 </div>
-
-
-<div><br>
-<img  height="140em" src="https://github-readme-stats.vercel.app/api?username=munizneto84&show_icons=tru&theme=gotham" alt="git stats" />
-<img  height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munizneto84&layout=compact&theme=gotham" alt="most used languages" />
-</div>
-
